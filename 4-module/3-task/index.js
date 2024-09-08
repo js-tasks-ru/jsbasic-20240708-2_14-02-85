@@ -21,5 +21,5 @@ function highlight(table) {
    }
    }
  }
- 
+// console.log(table);
 }
